@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="people">
+        <item>Teri Files</item>
+        <item>Thaksin Shinawatra</item>
+        <item>Theresa May</item>
+        <item>Tom Curley</item>
+        <item>Tom Daschle</item>
+        <item>Tves Brodeur</item>
+        <item>Venus Williams</item>
+        <item>Yu Shyi Kun</item>
+        <item>Yuri Fedotov</item>
+        <item>Zurab Tsereteli</item>
+    </string-array>
+
+    <integer-array name="images">
+        <item>@drawable/teri_files_0001</item>
+        <item>@drawable/thaksin_shinawatra_0004</item>
+        <item>@drawable/theresa_may_0001</item>
+        <item>@drawable/tom_curley_0001</item>
+        <item>@drawable/tom_daschle_0001</item>B
+        <item>@drawable/tves_brodeur_0001</item>
+        <item>@drawable/venus_williams_0005</item>
+        <item>@drawable/yu_shyi_kun_0001</item>
+        <item>@drawable/yuri_fedotov_0001</item>
+        <item>@drawable/zurab_tsereteli_0001</item>
+    </integer-array>
+</resources>
